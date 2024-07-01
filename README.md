@@ -60,11 +60,11 @@ paymentFacade.pay(300.00);
 
 ```
 
-## Com essas informações, você pode criar um repositório no GitHub e adicionar os arquivos necessários. Aqui estão os passos para criar o repositório:
+Com essas informações, você pode criar um repositório no GitHub e adicionar os arquivos necessários. Aqui estão os passos para criar o repositório:
 
 1. Acesse [GitHub](https://github.com/) e faça login.
 2. Clique no botão `New` para criar um novo repositório.
 3. Preencha o nome do repositório (`payment-system-design-patterns`), a descrição e marque a opção `Initialize this repository with a README`.
 4. Clique em `Create repository`.
 
-## Depois disso, você pode adicionar os arquivos de código (`PaymentStrategy.java`, `CreditCardStrategy.java`, `PayPalStrategy.java`, `BitcoinStrategy.java`, `Configuration.java`, `PaymentFacade.java`, `Main.java`) ao repositório.
+Depois disso, você pode adicionar os arquivos de código (`PaymentStrategy.java`, `CreditCardStrategy.java`, `PayPalStrategy.java`, `BitcoinStrategy.java`, `Configuration.java`, `PaymentFacade.java`, `Main.java`) ao repositório.
